@@ -1,0 +1,12 @@
+Experiment 9: Shell Programming
+Theory: System Performance Monitoring, System Security and User Management.
+Lab:
+i.
+Write a script that renames all files in a directory by adding a prefix or suffix to the
+filenames.
+ii.
+Create a script that searches for files in a specified directory and its subdirectories, based
+on certain criteria like file extension or file size.
+iii.
+Write a script that generates the Fibonacci series up to a given number, using loops or
+recursive functions.

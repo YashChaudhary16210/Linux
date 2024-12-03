@@ -1,0 +1,8 @@
+Experiment 11: Shell Programming
+Theory: Interacting with Users: Interactive shell scripts, Parsing and Processing Data
+Formats, Interacting with Databases
+Lab:
+i.
+Write a script that takes a sentence as input and splits it into individual words.
+ii.
+Create a script that checks whether a given string is a palindrome or not.

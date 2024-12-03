@@ -1,0 +1,9 @@
+Experiment 5: Shell Programming
+Theory: Command Line Argument, Array, Conditional Statements, Decision Making,
+Lab:
+i.
+Write a script that takes a number as input and checks whether it is a prime number or not.
+ii.
+Write a script that calculates the sum of the digits of a given number.
+iii.
+Create a script that checks whether a given number is an Armstrong number or not.

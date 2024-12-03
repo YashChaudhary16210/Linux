@@ -1,0 +1,15 @@
+Experiment 4: Shell Programming
+Theory: Introduction to BASH shell scripting, Basics of Shell Scripting, Types of Shell, Shell
+variable, Shell Keywords, Basic Operator, Positional Parameters
+Lab:
+i.
+Write a simple shell script that prints "Hello, World!" when executed.
+ii.
+Create a script that prompts the user to enter their name and then displays a personalized
+greeting.
+iii.
+Write a script that takes two numbers as input and performs various arithmetic operations
+like addition, subtraction, multiplication, and division.
+iv.
+Create a script that asks the user to enter their age and displays a message based on whether
+they are eligible to vote or not.

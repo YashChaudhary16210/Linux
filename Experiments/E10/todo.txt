@@ -1,0 +1,9 @@
+Experiment 10: Shell Programming
+Theory: Writing modular and reusable code, Script optimization
+Lab:
+i.
+Write a script that takes a string as input and calculates its length.
+ii.
+Create a script that takes a string as input and prints its reverse.
+iii.
+Write a script that prompts the user to enter two strings and concatenate them together.

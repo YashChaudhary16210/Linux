@@ -1,0 +1,17 @@
+Experiment 8: Shell Programming
+Theory: Process Control and Signals, Process Monitoring and Resource Usage, Process
+Communication, Process Synchronization, Background Processes and Job Control, System
+Monitoring and Logging
+Lab:
+i.
+Write a script that checks the file permissions of a given file and displays whether it is
+readable, writable, or executable by the current user.
+ii.
+Create a script that prompts the user to enter a string and then performs operations like
+string length, string concatenation, and string comparison.
+iii.
+Write a script that searches for a specific pattern in a given file and displays the matching
+lines.
+iv.
+Create a script that displays various system information like the current date and time,
+logged-in users, system uptime, etc

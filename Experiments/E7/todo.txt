@@ -1,0 +1,16 @@
+Experiment 7: Shell Programming
+Theory: Introduction to Processes, Process states, and process hierarchy, Process
+Management Commands: Viewing and monitoring running processes, Terminating or
+killing processes, Process Prioritization and Scheduling.
+Lab:
+i.
+Write a script that takes a filename as input and checks if it exists. If the file exists, display
+its content; otherwise, prompt the user to create the file.
+ii.
+Create a script that prints the numbers from 1 to 10 using a loop.
+iii.
+Write a script that takes a filename as a command line argument and counts the number of
+lines, words, and characters in that file.
+iv.
+Create a script that defines a function to calculate the factorial of a given number and call
+that function with different inputs.

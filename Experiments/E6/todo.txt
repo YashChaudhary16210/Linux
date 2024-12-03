@@ -1,0 +1,13 @@
+Experiment 6: Shell Programming
+Theory: Shell Loops, Loop control, IO Redirections, Shell Function, Regular Expressions,
+Script Debugging and Troubleshooting
+Lab:
+i.
+Write a script that checks whether a given number is a palindrome or not. A palindrome
+number reads the same backward as forward.
+ii.
+Write a script that calculates the greatest common divisor (GCD) and the least common
+multiple (LCM) of two given numbers.
+iii.
+Create a script that takes multiple numbers as input and sorts them in ascending or
+descending order.
