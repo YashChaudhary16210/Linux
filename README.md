@@ -6,7 +6,7 @@ Welcome to the repository for **Linux Semester 1 (Year 1) Experiments**! This re
 
 ## 🚀 How to Use  
 
-1. **Clone the Repository : ** 
+1. **Clone the Repository :** 
    Use the following command to clone the repository:  
    ```bash
    git clone https://github.com/YashChaudhary16210/Linux.git
